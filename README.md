@@ -8,7 +8,7 @@
 Du kannst mich per Discord oder Twitter erreichen.
 
 Mein Discord: Vergessxner#6848
-Twitter: https://twitter.com/RealVergessxner
+Twitter: https://twitter.com/JxstJonas
 
 
 <!--
