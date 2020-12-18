@@ -7,7 +7,7 @@
 ## 📫Contact
 Du kannst mich per Discord oder Twitter erreichen.
 
-Mein Discord: Vergessxner#6848
+Mein Discord: JxstJonas#6848
 Twitter: https://twitter.com/JxstJonas
 
 
