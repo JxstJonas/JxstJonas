@@ -1,6 +1,6 @@
 # Moin, ich bin Jonas 👋
 
-##### 🔭 Ich Arbeite derzeit an Minecraft Projekten. Nebenbei Programmiere ich noch ein kleines Netzwerk für mich
+##### 🔭 Ich Arbeite derzeit an Minecraft Projekten. Nebenbei Programmiere ich noch ein kleines Netzwerk was ich Open-Source auf Github zu Verfügung stellen werde 
 ##### 🌱 Derzeit arbeite ich mich durch die Web Entwicklung durch und versuche sie zu lernen
 ##### 👯 Ich bin immer bereit dir zu helfen.
 
