@@ -1,15 +1,4 @@
-# Moin, ich bin Jonas 👋
-
-##### 🔭 Ich Arbeite derzeit an Minecraft Projekten. Nebenbei Programmiere ich noch ein kleines Netzwerk was ich Open-Source auf Github zu Verfügung stellen werde 
-##### 🌱 Derzeit arbeite ich mich durch die Web Entwicklung durch und versuche sie zu lernen
-##### 👯 Ich bin immer bereit dir zu helfen.
-
-## 📫Contact
-Du kannst mich per Discord oder Twitter erreichen.
-
-Mein Discord: JxstJonas#6848
-Twitter: https://twitter.com/JxstJonas
-
+Hi, I'm Jonas and I code with Java. I'm learning java script, and a little bit of other web development stuff. I have experience with the Netty framework. I code Minecraft plugins on the side. I'm looking to collaborate on Minecraft Clouds and other Java or Java-Script stuff.
 
 <!--
 **Vergessxner/Vergessxner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
